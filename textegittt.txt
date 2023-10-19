@@ -3,5 +3,9 @@ SQL
 C'est une requête SQL qui entre dans un bar, et le serveur répond : « Il n'y a plus de tables ! ».
 
 Refusée au bar, la requête SQL veut aller en boîte et le videur lui dit : « Non, dehors ! C'est select ici. »
+<<<<<<< Updated upstream
 
 edit 1
+=======
+ghghghg
+>>>>>>> Stashed changes
